@@ -61,6 +61,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 | **Signal** | Signal é um programa que te permite criar lembretes, tarefas com atribuições, timers, entre outros. Desenvolvido usando TypeScript, ele também funciona online (LAN) no modo de cooperação de time. | [Ver Projeto](https://github.com/nobackslash/Signal-Front) |
 | **GateKeep** | GateKeep é um sistema de gestão de vagas de estacionamento. O programa contém a opção de booking, para você sempre ter sua vaga, independente do dia e da hora.| [Ver Projeto](https://github.com/nobackslash/GateKeep) |
 | **Live Morse** | Live Morse é um pequeno projeto de estudo escrito em Python. Ele funciona como um tradutor de morse, com o diferencial de sua tradução ser instantânea e ao vivo. | [Ver Projeto](https://github.com/nobackslash/study-live-morse) |
+| **RPG Meet** | RPG Meet é um aplicativo móvel que combina videoconferência em tempo real com um sistema interativo de rolagem de dados (d4 a d100) para sessões de RPG de mesa. | [Ver Projeto](https://github.com/nobackslash/rpg-meet) |
 
  
 ---

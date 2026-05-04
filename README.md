@@ -26,6 +26,8 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
+[![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)](#)
+[![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
@@ -61,6 +63,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 | **Signal** | Signal é um programa que te permite criar lembretes, tarefas com atribuições, timers, entre outros. Desenvolvido usando TypeScript, ele também funciona online (LAN) no modo de cooperação de time. | [Ver Projeto](https://github.com/nobackslash/Signal-Front) |
 | **GateKeep** | GateKeep é um sistema de gestão de vagas de estacionamento. O programa contém a opção de booking, para você sempre ter sua vaga, independente do dia e da hora.| [Ver Projeto](https://github.com/nobackslash/GateKeep) |
 | **Live Morse** | Live Morse é um pequeno projeto de estudo escrito em Python. Ele funciona como um tradutor de morse, com o diferencial de sua tradução ser instantânea e ao vivo. | [Ver Projeto](https://github.com/nobackslash/study-live-morse) |
+| **RPG Meet** | RPG Meet é um aplicativo móvel que combina videoconferência em tempo real com um sistema interativo de rolagem de dados (d4 ao d100), projetado para sessões de RPG de mesa como D&D, Pathfinder e Call of Cthulhu. Desenvolvido com React Native, Expo e TypeScript. | [Ver Projeto](./rpg-meet) |
 
  
 ---
@@ -69,4 +72,5 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 Abaixo, a organização deste repositório para facilitar a navegação:
  
 - `root/`: Arquivo de apresentação principal.
+- `/rpg-meet/`: Aplicativo móvel de videoconferência com rolagem de dados para RPG de mesa (React Native, Expo, TypeScript).
 - `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.

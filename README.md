@@ -61,13 +61,14 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 
 | Projeto                                 | Descrição                                                                             |                         Link                         |
 | :-------------------------------------- | :------------------------------------------------------------------------------------ | :--------------------------------------------------: |
-| **Corrida do Prompt**                   | Um projeto que explora a interação com prompts de IA para resolver desafios.          |          [Ver Projeto](/corrida-do-prompt/)          |
-| **Desenvolvimento de App Manus Jitsi**  | Um aplicativo para videoconferências com integração de temas personalizados.          | [Ver Projeto](/desenvolvimento-de-app-manus-jitsi/)  |
-| **Do Clone ao Produto**                 | Um estudo sobre o ciclo de vida de um produto digital.                                |         [Ver Projeto](/do-clone-ao-produto/)         |
-| **Engenharia com Bubble**               | Um projeto que utiliza a ferramenta Bubble para desenvolvimento rápido de aplicações. |        [Ver Projeto](/engenharia-com-bubble/)        |
-| **Engenharia Reversa**                  | Análise e reconstrução de sistemas existentes.                                        |         [Ver Projeto](/engenharia-reversa/)          |
-| **Laboratório de Classificação Visual** | Experimentos com algoritmos de classificação de imagens.                              | [Ver Projeto](/laboratorio-de-classificacao-visual/) |
-| **Composição Musical Assistida Por Inteligência Artificial** | Criação de musica utilizando Inteligência Artificial                              | [Ver Projeto](/composicao-musical-assistida-por-inteligencia-artificial/) |
+| **SM1 - A Corrida do Prompt**                   | Um projeto que explora a interação com prompts de IA para resolver desafios.          |          [Ver Projeto](/corrida-do-prompt/)          |
+| **SM2 - Laboratório de Classificação Visual** | Experimentos com algoritmos de classificação de imagens.                              | [Ver Projeto](/laboratorio-de-classificacao-visual/) |
+| **SM3 - Batalha de Modelos & Engenharia de Prompt (XML)** | Comparação de modelos utilizando engenharia de prompts | [Ver Projeto](/laboratorio-de-classificacao-visual/) |
+| **SM4 - Engenharia Reversa**                  | Análise e reconstrução de sistemas existentes.                                        |         [Ver Projeto](/engenharia-reversa/)          |
+| **SM5 - Do Clone ao Produto Mínimo Viável (MVP+)**                 | Um estudo sobre o ciclo de vida de um produto digital.                                |         [Ver Projeto](/do-clone-ao-produto/)         |
+| **SM6 - Engenharia de Software e IA com Bubble.io**               | Um projeto que utiliza a ferramenta Bubble para desenvolvimento rápido de aplicações. |        [Ver Projeto](/engenharia-com-bubble/)        |
+| **SM7 - Desenvolvimento de App de Videoconferência com Manus AI e Jitsi**  | Um aplicativo para videoconferências com integração de temas personalizados.          | [Ver Projeto](/desenvolvimento-de-app-manus-jitsi/)  |
+| **SM8 - Composição Musical Assistida Por Inteligência Artificial** | Criação de musica utilizando Inteligência Artificial                              | [Ver Projeto](/composicao-musical-assistida-por-inteligencia-artificial/) |
 
 #### Outros
 

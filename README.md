@@ -67,6 +67,7 @@ Atualmente cursando o 2º período de Ciência da Computação na Universidade C
 | **Engenharia com Bubble**               | Um projeto que utiliza a ferramenta Bubble para desenvolvimento rápido de aplicações. |        [Ver Projeto](/engenharia-com-bubble/)        |
 | **Engenharia Reversa**                  | Análise e reconstrução de sistemas existentes.                                        |         [Ver Projeto](/engenharia-reversa/)          |
 | **Laboratório de Classificação Visual** | Experimentos com algoritmos de classificação de imagens.                              | [Ver Projeto](/laboratorio-de-classificacao-visual/) |
+| **Composição Musical Assistida Por Inteligência Artificial** | Criação de musica utilizando Inteligência Artificial                              | [Ver Projeto](/composicao-musical-assistida-por-inteligencia-artificial/) |
 
 #### Outros
 
